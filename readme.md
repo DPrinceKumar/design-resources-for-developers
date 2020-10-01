@@ -29,7 +29,6 @@
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
-- [Others](#others)
 
 ## UI Graphics
 
